@@ -1,4 +1,4 @@
-**# JamVerse Haiku App
+JamVerse Haiku App
 
 JamVerse is a social media app that celebrates collaboration and creativity through haikus. Users can collaborate on haikus with friends, family, and strangers from around the world. Each haiku starts with a prompt, and participants take turns adding lines until the poem is complete.
 
