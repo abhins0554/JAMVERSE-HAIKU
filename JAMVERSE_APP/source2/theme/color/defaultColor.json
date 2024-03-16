@@ -1,0 +1,12 @@
+{
+    "background": "#faeadb",
+    "primary": "#ff5733",
+    "secondary": "#aabdcb",
+    "textPrimary": "#2c2c2c",
+    "textSecondary": "#757575",
+    "accent": "#7e8a9a",
+    "white": "#FFFFFF",
+    "black": "#000000",
+    "grey": "grey",
+    "lightgrey": "lightgrey"
+}

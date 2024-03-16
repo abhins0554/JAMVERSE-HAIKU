@@ -1,0 +1,5 @@
+.env
+node_modules
+errorLog
+responseLog
+swagger_auto_gen.json

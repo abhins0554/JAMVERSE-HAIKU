@@ -1,0 +1,21 @@
+{
+    "keepSettings": {
+        "type": 1,
+        "amount": 10
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1706461463244,
+            "name": "/src/logger/responseLog/20240128-response.log.0",
+            "hash": "90393bad6737f0b85edb0a244316e344"
+        },
+        {
+            "date": 1706461657166,
+            "name": "/src/logger/responseLog/20240128-response.log.20240128",
+            "hash": "608dbc0cfb13536af7600849ff4828ce"
+        }
+    ]
+}

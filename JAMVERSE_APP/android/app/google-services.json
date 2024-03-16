@@ -1,0 +1,65 @@
+{
+  "project_info": {
+    "project_number": "367682473783",
+    "firebase_url": "https://jam-chat-28-11-default-rtdb.firebaseio.com",
+    "project_id": "jam-chat-28-11",
+    "storage_bucket": "jam-chat-28-11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367682473783:android:db6ada9c0d3ccb055394b2",
+        "android_client_info": {
+          "package_name": "com.jamverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367682473783-7n7vgqvm2s1qc9nj88fc33hq4364qk60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jamverse",
+            "certificate_hash": "df1bf2fea045f65c1168622f2b422995fa95a491"
+          }
+        },
+        {
+          "client_id": "367682473783-cc3pnlkcn3kdg5c89d269dsddkas2obo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jamverse",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "367682473783-ghlqp0ect3s6skp76r6lh72t2ks7cb91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jamverse",
+            "certificate_hash": "f27cea252a5ebddd42efed26f4175e4636ac07e3"
+          }
+        },
+        {
+          "client_id": "367682473783-l1nrks0t5co8usdhornm339l4uvqgdhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlU5Yf1vVw0tF0L_foGMg025y3J0T8N8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367682473783-3ks99d1mng0b35hqmticr9l3i5l6jkvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9265757158906430~6704172476"
+    }
+  ],
+  "configuration_version": "1"
+}
